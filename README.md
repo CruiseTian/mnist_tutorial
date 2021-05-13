@@ -22,3 +22,17 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+
+
+# Results
+
+|    Question    | Train accuracy | Test accuracy |
+| :------------: | :------------: | :-----------: |
+|       Q1       |     97.38%     |    88.30%     |
+|       Q2       |     81.85%     |    81.20%     |
+|       Q3       |     98.05%     |    86.00%     |
+|       Q4       |     98.03%     |    86.00%     |
+| Q5(last epoch) |    99.434%     |    98.998%    |
+
+For Q5, I use Lenet as a model for training.
